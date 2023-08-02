@@ -48,4 +48,4 @@ This project is not officially associated with Claude AI or its developers. Use 
 
 Feel free to customize this README according to your specific requirements and add more details if needed. You can include information about how to obtain the organization UUID, conversation UUID, and authentication cookie. Additionally, you might want to include some examples of the conversation flow to give potential users a better understanding of how the client works.
 
-I have built a wechat group for who interested in ai, contanct me at wx:jwhisperr
+
