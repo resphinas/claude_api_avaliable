@@ -1,6 +1,7 @@
 # Claude AI Python Client
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-中文文档: ([https://github.com/resphinas/claude_api/main/README_ZH.md](https://github.com/resphinas/claude_api/blob/main/README_ZH.md))
+[![简体中文 badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Simplified%20Chinese-blue)](./README_ZH.md)\
+
 
 
 The Claude AI Python Client provides a convenient way to interact with the Claude AI API, enabling you to have AI-powered chat conversations. This client allows you to send queries and receive responses from the AI model seamlessly.
