@@ -1,6 +1,6 @@
 # Claude AI Python 客户端
 
-![Claude AI](https://example.com/claude_ai_logo.png)
+
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
