@@ -3,7 +3,7 @@
 [![简体中文 badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Simplified%20Chinese-blue)](./README_ZH.md)
 
 
-## 由于官方接入cloudware反爬，本项目已失效，不再更新！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+## 2023.08 26 更新，可正常使用！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
 ## Due to official access to Cloudware anti crawling, this project has become invalid and will no longer be updated!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 The Claude AI Python Client provides a convenient way to interact with the Claude AI API, enabling you to have AI-powered chat conversations. This client allows you to send queries and receive responses from the AI model seamlessly.
 
