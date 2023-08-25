@@ -4,8 +4,6 @@
 
 
 ## 2023.08 26 更新，可正常使用！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
-## Due to official access to Cloudware anti crawling, this project has become invalid and will no longer be updated!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-The Claude AI Python Client provides a convenient way to interact with the Claude AI API, enabling you to have AI-powered chat conversations. This client allows you to send queries and receive responses from the AI model seamlessly.
 
 ## Requirements
 
