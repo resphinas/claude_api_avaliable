@@ -1,7 +1,6 @@
 # Claude AI Python 客户端
 
-## 由于官方接入cloudware反爬，本项目已失效，不再更新！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
-## Due to official access to Cloudware anti crawling, this project has become invalid and will no longer be updated!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
